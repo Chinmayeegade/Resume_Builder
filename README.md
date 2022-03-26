@@ -1,3 +1,8 @@
+# Resume_Builder
+https://chinmayeegade.github.io/Resume_Builder/
+
+Website hosted using Github Pages to create a personal resume and download it to your device in a Portable Document Format (PDF).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
